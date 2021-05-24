@@ -13,9 +13,9 @@
 4) Bonus Problem :- Graph 
 
 ## Synopsis of each Lab. 
-1) Lab 1 :- Divide and Conquer. All 3 code files are included  
-2) Lab 2 :- Dynamic Programming. Only the tougher implementation [code.cpp](https://github.com/abhinavgudipati/ada-assignments/blob/main/Labs/Lab%202/code.cpp) is included as it is fulflling both the testcases of the simple as well as the tougher problem. 
-3) Lab 3 :- Greedy. All 3 files are included. 
+1) Lab 1 :- Divide and Conquer. 
+2) Lab 2 :- Dynamic Programming. 
+3) Lab 3 :- Greedy. 
 
 ## Contributors :- 
 1) [Abhimanyu Gupta](https://github.com/0deadLock0 "GitHub Profile")  - 2019226
