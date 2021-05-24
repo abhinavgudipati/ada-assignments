@@ -6,6 +6,12 @@
 1) Code Folder :- 3 Labs 
 2) Assignment Folder :- 3 Assignments + 1 Bonus Assignment
 
+## Synopsis of each Homework. 
+1) Homework 1 :- Divide and Conquer 
+2) Homework 2 :- Dynamic Programming + Greedy 
+3) Homework 3 :- Greedy + Graphs 
+4) Bonus Problem :- Graph 
+
 ## Contributors :- 
 1) Abhimanyu Gupta  - 2019226
 2) Abhinav Gudipati - 2019227 
