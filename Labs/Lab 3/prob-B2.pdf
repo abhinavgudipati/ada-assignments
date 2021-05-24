@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+  <!-- DOMjudge version 6.0.3 -->
+  <title>Login</title>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/domjudge/images/favicon.png?v=6.0.3" type="image/png" />
+  <link rel="stylesheet" href="/domjudge/style.css?v=6.0.3" type="text/css" />
+  <link rel="stylesheet" href="/domjudge/css/octicons/octicons.css?v=6.0.3" />
+  <script type="text/javascript" src="/domjudge/js/jquery.min.js?v=6.0.3"></script>
+
+  <link rel="stylesheet" href="/domjudge/style_jury.css?v=6.0.3" type="text/css" />
+  <link rel="stylesheet" href="/domjudge/style_printer.css?v=6.0.3" type="text/css" media="print" />
+  <script type="text/javascript" src="/domjudge/js/jury.js?v=6.0.3"></script>
+  <script type="text/javascript" src="/domjudge/js/js.cookie.min.js?v=6.0.3"></script>
+  <script type="text/javascript" src="/domjudge/js/jscolor.js?v=6.0.3"></script>
+  <link rel="stylesheet" href="/domjudge/token-input.css?v=6.0.3" type="text/css" />
+  <script type="text/javascript" src="/domjudge/js/jquery.tokeninput.min.js?v=6.0.3"></script>
+  <script type="text/javascript" src="/domjudge/js/sorttable.js?v=6.0.3"></script>
+  <script type="text/javascript" src="/domjudge/js/domjudge.js?v=6.0.3"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="./css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="style_login.css" type="text/css" />
+</head>
+<body>
+  
+  <form class="form-signin" action="/domjudge/login" method="post">
+    <input type="hidden" name="_csrf_token" value="-SKaoqSJ6IKc46rq5zX0MDoSXhlYTL33fi2phKeef-0">
+
+    <img class="mb-4" src="images/DOMjudgelogo.png" alt="DOMjudge" width="72"> <img class="mb-4" src="images/FooBarLogo.png" alt="FooBar" width="210">
+
+  
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+
+  
+      <label for="username" class="sr-only">Username</label>
+      <input type="text" id="username" name="_username" class="form-control" placeholder="Username" required autofocus>
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" name="_password" class="form-control" placeholder="Password" required>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <p class="mt-5 mb-3 small text-muted">DOMjudge 6.0.3</p>
+
+      <div>Don't have an account? <a href="http://foobar.iiitd.edu.in/signup">Register now</a>.</div>
+
+  </form>
+
+  </body>
+</html>
