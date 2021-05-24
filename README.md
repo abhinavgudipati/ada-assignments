@@ -2,7 +2,7 @@
 
 ### This is the Analysis Design and Algorithms repository having all the course assignments. 
 
-## Files included :
+## Files included :-
 1) Code Files :- 3 Labs 
 2) Assignment Files :- 3 Assignments + 1 Bonus Assignment
 
