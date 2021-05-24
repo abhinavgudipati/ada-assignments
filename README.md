@@ -1,6 +1,6 @@
 # ADA : Assignments 
 
-### This is the [Algorithm Design and Analysis](https://sites.google.com/iiitd.ac.in/ada2021/lectures?authuser=0) repository having all the course assignments. 
+### This is the [Algorithm Design and Analysis](https://sites.google.com/iiitd.ac.in/ada2021 "Course Webpage") repository having all the course assignments. 
 
 ## Files included :-
 1) Code Folder :- 3 Labs 
@@ -13,8 +13,8 @@
 4) Bonus Problem :- Graph 
 
 ## Contributors :- 
-1) Abhimanyu Gupta  - 2019226
-2) Abhinav Gudipati - 2019227 
+1) [Abhimanyu Gupta](https://github.com/0deadLock0 "GitHub Profile")  - 2019226
+2) [Abhinav Gudipati](https://github.com/abhinavgudipati "GitHub Profile") - 2019227 
 
 **Our takeaway** from this beautiful course was how working on these assignments together not only taught us the power of collaboration during these testing COVID times but drew much required inspiration from the way algorithms work and how imperative they stand even through all mundane activities of day to day life. 
 
